@@ -1,0 +1,1 @@
+{ user(login: "YASH-ai-bit") { repositories(first: 100, ownerAffiliations: OWNER) { totalCount nodes { name isFork } } } }

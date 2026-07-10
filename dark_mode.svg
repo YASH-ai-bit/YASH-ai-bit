@@ -10,6 +10,8 @@
 }
 .key {fill: #ffa657;}
 .value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
@@ -52,29 +54,25 @@ text, tspan {white-space: pre;}
 </text>
 
 <!-- ============ INFO (right column) ============ -->
-<!-- IMPORTANT: Each tspan MUST be on ONE line — newlines break spacing due to white-space:pre -->
-<!-- To edit: change text between class="key" or class="value" tags. Keep it on one line. -->
-<!-- To add a line: copy a tspan, increment y by 18. To add a section gap: increment y by 28. -->
-<!-- To move this column left/right: change all x="540" values. -->
 <text x="540" y="28" font-size="14px">
 <tspan x="540" y="28"><tspan class="key">yash</tspan><tspan class="cc">@</tspan><tspan class="key">github</tspan> <tspan class="cc">――――――――――――――――――――――――</tspan></tspan>
-<tspan x="540" y="48"><tspan class="key">OS:</tspan>                    <tspan class="value">Windows 11 + WSL</tspan></tspan>
-<tspan x="540" y="66"><tspan class="key">Uptime:</tspan>                <tspan class="value">19 years, 3 months</tspan></tspan>
-<tspan x="540" y="84"><tspan class="key">Editor:</tspan>                <tspan class="value">Visual Studio Code</tspan></tspan>
-<tspan x="540" y="102"><tspan class="key">Shell:</tspan>                 <tspan class="value">PowerShell + Bash</tspan></tspan>
-<tspan x="540" y="130"><tspan class="cc">―― Languages ――――――――――――――――――――――</tspan></tspan>
-<tspan x="540" y="150"><tspan class="key">Languages.Real:</tspan>        <tspan class="value">English, Hindi</tspan></tspan>
-<tspan x="540" y="168"><tspan class="key">Languages.Blockchain:</tspan>  <tspan class="value">Solidity, Rust</tspan></tspan>
-<tspan x="540" y="186"><tspan class="key">Languages.Web:</tspan>         <tspan class="value">JS, TypeScript</tspan></tspan>
-<tspan x="540" y="204"><tspan class="key">Languages.Systems:</tspan>     <tspan class="value">Rust, Go</tspan></tspan>
-<tspan x="540" y="222"><tspan class="key">Languages.Other:</tspan>       <tspan class="value">Python, C++</tspan></tspan>
-<tspan x="540" y="250"><tspan class="cc">―― Research ―――――――――――――――――――――――</tspan></tspan>
-<tspan x="540" y="270"><tspan class="key">Blockchain:</tspan>            <tspan class="value">Ethereum, EIP-4337, EIP-7702</tspan></tspan>
-<tspan x="540" y="288"><tspan class="key">Privacy:</tspan>               <tspan class="value">Stealth Addresses, ZK</tspan></tspan>
-<tspan x="540" y="316"><tspan class="cc">―― Contact ――――――――――――――――――――――――</tspan></tspan>
-<tspan x="540" y="336"><tspan class="key">Email:</tspan>                 <tspan class="value">gujjaryash7089@gmail.com</tspan></tspan>
-<tspan x="540" y="354"><tspan class="key">Twitter/X:</tspan>             <tspan class="value">@offee_co</tspan></tspan>
-<tspan x="540" y="372"><tspan class="key">LinkedIn:</tspan>              <tspan class="value">Yash Bainsla</tspan></tspan>
-<tspan x="540" y="390"><tspan class="key">Blog:</tspan>                  <tspan class="value">yap.engineer</tspan></tspan>
+<tspan x="540" y="48"><tspan class="key">OS:</tspan> <tspan class="value">······················ Windows 11 + WSL</tspan></tspan>
+<tspan x="540" y="66"><tspan class="key">Uptime:</tspan> <tspan class="value">·················· 19 years, 3 months</tspan></tspan>
+<tspan x="540" y="84"><tspan class="key">Editor:</tspan> <tspan class="value">·················· Visual Studio Code</tspan></tspan>
+<tspan x="540" y="102"><tspan class="key">Shell:</tspan> <tspan class="value">··················· PowerShell + Bash</tspan></tspan>
+<tspan x="540" y="130"><tspan class="cc">―― Languages ――――――――――――――――――――――――</tspan></tspan>
+<tspan x="540" y="150"><tspan class="key">Languages.Real:</tspan> <tspan class="value">·············· English, Hindi</tspan></tspan>
+<tspan x="540" y="168"><tspan class="key">Languages.Blockchain:</tspan> <tspan class="value">········ Solidity, Rust</tspan></tspan>
+<tspan x="540" y="186"><tspan class="key">Languages.Web:</tspan> <tspan class="value">··············· JS, TypeScript</tspan></tspan>
+<tspan x="540" y="204"><tspan class="key">Languages.Systems:</tspan> <tspan class="value">··········· Rust, Go, C++</tspan></tspan>
+<tspan x="540" y="222"><tspan class="key">Languages.Other:</tspan> <tspan class="value">············· Python, Move</tspan></tspan>
+<tspan x="540" y="250"><tspan class="cc">―― Contact ―――――――――――――――――――――――――</tspan></tspan>
+<tspan x="540" y="270"><tspan class="key">Email:</tspan> <tspan class="value">··········· gujjaryash7089@gmail.com</tspan></tspan>
+<tspan x="540" y="288"><tspan class="key">Twitter/X:</tspan> <tspan class="value">······················ @offee_co</tspan></tspan>
+<tspan x="540" y="306"><tspan class="key">LinkedIn:</tspan> <tspan class="value">··················· Yash Bainsla</tspan></tspan>
+<tspan x="540" y="324"><tspan class="key">Blog:</tspan> <tspan class="value">······················ yap.engineer</tspan></tspan>
+<tspan x="540" y="352"><tspan class="cc">―― GitHub Stats ―――――――――――――――――――</tspan></tspan>
+<tspan x="540" y="372"><tspan class="key">Repos:</tspan> <tspan class="value">···· 47 {Contributed: 41}</tspan> <tspan class="cc">|</tspan> <tspan class="key">Commits:</tspan> <tspan class="value">·· 446</tspan></tspan>
+<tspan x="540" y="390"><tspan class="key">Lines of Code on GitHub:</tspan> <tspan class="value">··· 63,765</tspan> <tspan class="value">( </tspan><tspan class="addColor">63,860++</tspan><tspan class="value">, </tspan><tspan class="delColor">95--</tspan><tspan class="value"> )</tspan></tspan>
 </text>
 </svg>
