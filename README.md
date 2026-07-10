@@ -1,11 +1,3 @@
-<div align="center">
-
-# Yash / README.md
-
-<sub>Profile snapshot generated with `gh` CLI on July 10, 2026.</sub>
-
-</div>
-
 <table>
 <tr>
 <td width="52%" valign="top">
