@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="580px" font-size="14px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="440px" font-size="14px">
 <style>
 @font-face {
   src: local('Consolas'), local('Consolas Bold');
@@ -13,38 +13,68 @@
 .cc {fill: #8b949e;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="580px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f">
-<tspan x="15" y="30">                     @@@@@%%####%%@@@@@@@@         <tspan class="key">yash</tspan><tspan class="cc">@</tspan><tspan class="key">github</tspan> <tspan class="cc">―――――――――――――――――――</tspan></tspan>
-<tspan x="15" y="48">                @@@@#+=---------------=+*#@@@@     <tspan class="key">OS:</tspan> <tspan class="value">··················· Windows 11 + WSL</tspan></tspan>
-<tspan x="15" y="66">              @@#=--------------------------=*@@@  <tspan class="key">Uptime:</tspan> <tspan class="value">··········· 1 year, 8 months</tspan></tspan>
-<tspan x="15" y="84">  @@@@      @@=---------------------------------%@<tspan class="key">Role:</tspan> <tspan class="value">·········· Smart Contract Developer</tspan></tspan>
-<tspan x="15" y="102">  @@@@@@@@@%--------------------------------------#<tspan class="key">Editor:</tspan> <tspan class="value">·········· Visual Studio Code</tspan></tspan>
-<tspan x="15" y="120">  @@@@@@@@@@%*=-------------------------------------%<tspan class="key">Shell:</tspan> <tspan class="value">··········· PowerShell + Bash</tspan></tspan>
-<tspan x="15" y="138">   @@@@@@@@@@@=*%#+----------------------------------=%@</tspan>
-<tspan x="15" y="156">   @@@@@@@@@@@=.+@=#%#+--------------------------------#@    @@@</tspan>
-<tspan x="15" y="174">   @@@@@@@@@@@#..@*...-#@%=-----------------------------#@@@@@@@ <tspan class="cc">―― Languages ―――――――――――――――――――――</tspan></tspan>
-<tspan x="15" y="192">  @@**@@@@@@@@%:.@@.......-%@*-----------------------+%*+@@@@@@@ <tspan class="key">Languages.Blockchain:</tspan> <tspan class="value">Solidity, Rust</tspan></tspan>
-<tspan x="15" y="210">  @#--#@@@@@@@@+.+@:..........=@%+--------------=*#-.@%..%@@@@@@ <tspan class="key">Languages.Web:</tspan> <tspan class="value">··· JS, TypeScript</tspan></tspan>
-<tspan x="15" y="228"> @@=---%@@@@@@@*..@*..........=@@@@@*=-----=+%@@:....*@-.#@@@@@  <tspan class="key">Languages.Systems:</tspan> <tspan class="value">····· Rust, Go</tspan></tspan>
-<tspan x="15" y="246"> @#-----%@@@@@@@:.@%..........:@@@@@@@@%#@@@=.@@*....-@+.+@@@@@  <tspan class="key">Languages.Other:</tspan> <tspan class="value">··· Python, C++</tspan></tspan>
-<tspan x="15" y="264"> @+-----=%@@@@@@-.=@-..........%@@@@@@@@@@@@+.@@%.....@*.:@@@@</tspan>
-<tspan x="15" y="282"> @=-------%@@@@@*..@*..........+@@@@@@@@@@@@*.%@%:....#%:.@@@@   <tspan class="cc">―― Research ――――――――――――――――――――――</tspan></tspan>
-<tspan x="15" y="300"> @---------%@@@@@..@#..........-@@@@@@@@@@@@%:+@@+....=@-.#@@    <tspan class="key">Blockchain:</tspan> <tspan class="value">··· Ethereum, ZK Proofs</tspan></tspan>
-<tspan x="15" y="318"> @=---------*@@@@-.=@-.........:%@@@@@@@@@@@@:.@@*....-@=.-@     <tspan class="key">MEV:</tspan> <tspan class="value">·· Block Building, Searchers</tspan></tspan>
-<tspan x="15" y="336"> @#----------=@@@%.:@+..........*@@@@@@@@@@@@-.@@%:...:#*-@@     <tspan class="key">Infra:</tspan> <tspan class="value">····· Distributed Systems</tspan></tspan>
-<tspan x="15" y="354">  %+----------=%@@.:%*..........=@@@@@@@@@@@@=.@@@=....+@@@@</tspan>
-<tspan x="15" y="372">  @%=---%#------#@*.+@:.....=+*%%##*=---=*%@@*.+@@+....+%=#@     <tspan class="cc">―― Contact ―――――――――――――――――――――――</tspan></tspan>
-<tspan x="15" y="390">  @@%=--*#-------=@==@##%#*++=---------------+*#@@@*=.:#=-+@     <tspan class="key">Email:</tspan> <tspan class="value">··· gujjaryash7089@gmail.com</tspan></tspan>
-<tspan x="15" y="408">  @%-#*--=#%#=-----+==-----------------------------====---*@@    <tspan class="key">Twitter/X:</tspan> <tspan class="value">··············· @offee_co</tspan></tspan>
-<tspan x="15" y="426">   @#..@+-----=#@@*=----------------------------------++#@@@     <tspan class="key">Blog:</tspan> <tspan class="value">·· https://yap-blogs.vercel.app</tspan></tspan>
-<tspan x="15" y="444"> @@#%*..-@+-----------=+*%@@@@#=----=*----+---+%@@%*@@@@         <tspan class="key">GitHub:</tspan> <tspan class="value">···· github.com/YASH-ai-bit</tspan></tspan>
-<tspan x="15" y="462"> ***#%....#@#=----------------=*#%%%*+===+#%#+---+%@</tspan>
-<tspan x="15" y="480"> **#*..:-=+===*++--------------------=+**+-----+%@@              <tspan class="cc">―― GitHub Stats ―――――――――――――――――</tspan></tspan>
-<tspan x="15" y="498"> ###**+=----+%...:==++=--------------------==--::*@@             <tspan class="key">Repos:</tspan> <tspan class="value">·· 47  </tspan><tspan class="cc">|</tspan><tspan class="key"> Commits:</tspan> <tspan class="value">········ 442</tspan></tspan>
-<tspan x="15" y="516"> #=----------=%*:.....::-=+#%@@@@%%%#*+--:........+@@@@          <tspan class="key">Followers:</tspan> <tspan class="value"> 5  </tspan><tspan class="cc">|</tspan><tspan class="key"> Following:</tspan> <tspan class="value">······ 30</tspan></tspan>
-<tspan x="15" y="534"> -------------+#+@@#-...........................:#@*@#=%@@       <tspan class="key">Stars:</tspan> <tspan class="value">························· 5</tspan></tspan>
-<tspan x="15" y="552"> --------------*=...:*@@#=:.................:+%@=...-@*-=%@@</tspan>
-<tspan x="15" y="570"> --------------=%:........:-+*#%%@@@@@@@@@@+-........=@+--=@@</tspan>
+<rect width="985px" height="440px" fill="#f6f8fa" rx="15"/>
+
+<!-- ============ ASCII ART (left column, smaller font) ============ -->
+<text x="15" y="28" fill="#24292f" font-size="10px">
+<tspan x="15" y="28">                     @@@@@%%####%%@@@@@@@@</tspan>
+<tspan x="15" y="40">                @@@@#+=---------------=+*#@@@@</tspan>
+<tspan x="15" y="52">              @@#=--------------------------=*@@@</tspan>
+<tspan x="15" y="64">  @@@@      @@=---------------------------------%@@</tspan>
+<tspan x="15" y="76">  @@@@@@@@@%--------------------------------------#@@</tspan>
+<tspan x="15" y="88">  @@@@@@@@@@%*=-------------------------------------%@</tspan>
+<tspan x="15" y="100">   @@@@@@@@@@@=*%#+----------------------------------=%@</tspan>
+<tspan x="15" y="112">   @@@@@@@@@@@=.+@=#%#+--------------------------------#@    @@@</tspan>
+<tspan x="15" y="124">   @@@@@@@@@@@#..@*...-#@%=-----------------------------#@@@@@@@</tspan>
+<tspan x="15" y="136">  @@**@@@@@@@@%:.@@.......-%@*-----------------------+%*+@@@@@@@</tspan>
+<tspan x="15" y="148">  @#--#@@@@@@@@+.+@:..........=@%+--------------=*#-.@%..%@@@@@@</tspan>
+<tspan x="15" y="160"> @@=---%@@@@@@@*..@*..........=@@@@@*=-----=+%@@:....*@-.#@@@@@</tspan>
+<tspan x="15" y="172"> @#-----%@@@@@@@:.@%..........:@@@@@@@@%#@@@=.@@*....-@+.+@@@@@</tspan>
+<tspan x="15" y="184"> @+-----=%@@@@@@-.=@-..........%@@@@@@@@@@@@+.@@%.....@*.:@@@@</tspan>
+<tspan x="15" y="196"> @=-------%@@@@@*..@*..........+@@@@@@@@@@@@*.%@%:....#%:.@@@@</tspan>
+<tspan x="15" y="208"> @---------%@@@@@..@#..........-@@@@@@@@@@@@%:+@@+....=@-.#@@</tspan>
+<tspan x="15" y="220"> @=---------*@@@@-.=@-.........:%@@@@@@@@@@@@:.@@*....-@=.-@</tspan>
+<tspan x="15" y="232"> @#----------=@@@%.:@+..........*@@@@@@@@@@@@-.@@%:...:#*-@@</tspan>
+<tspan x="15" y="244">  %+----------=%@@.:%*..........=@@@@@@@@@@@@=.@@@=....+@@@@</tspan>
+<tspan x="15" y="256">  @%=---%#------#@*.+@:.....=+*%%##*=---=*%@@*.+@@+....+%=#@</tspan>
+<tspan x="15" y="268">  @@%=--*#-------=@==@##%#*++=---------------+*#@@@*=.:#=-+@</tspan>
+<tspan x="15" y="280">  @%-#*--=#%#=-----+==-----------------------------====---*@@</tspan>
+<tspan x="15" y="292">   @#..@+-----=#@@*=----------------------------------++#@@@</tspan>
+<tspan x="15" y="304"> @@#%*..-@+-----------=+*%@@@@#=----=*----+---+%@@%*@@@@</tspan>
+<tspan x="15" y="316"> ***#%....#@#=----------------=*#%%%*+===+#%#+---+%@</tspan>
+<tspan x="15" y="328"> **#*..:-=+===*++--------------------=+**+-----+%@@</tspan>
+<tspan x="15" y="340"> ###**+=----+%...:==++=--------------------==--::*@@</tspan>
+<tspan x="15" y="352"> #=----------=%*:.....::-=+#%@@@@%%%#*+--:........+@@@@</tspan>
+<tspan x="15" y="364"> -------------+#+@@#-...........................:#@*@#=%@@</tspan>
+<tspan x="15" y="376"> --------------*=...:*@@#=:.................:+%@=...-@*-=%@@</tspan>
+<tspan x="15" y="388"> --------------=%:........:-+*#%%@@@@@@@@@@+-........=@+--=@@</tspan>
+<tspan x="15" y="400"> ---------------%:.......................#%...........*%=--=@@</tspan>
+</text>
+
+<!-- ============ INFO (right column, normal font) ============ -->
+<text x="430" y="28" font-size="14px">
+<tspan x="430" y="28"><tspan class="key">yash</tspan><tspan class="cc">@</tspan><tspan class="key">github</tspan> <tspan class="cc">――――――――――――――――――――――――――――</tspan></tspan>
+<tspan x="430" y="48"><tspan class="key">OS:</tspan>            <tspan class="value">Windows 11 + WSL</tspan></tspan>
+<tspan x="430" y="66"><tspan class="key">Uptime:</tspan>        <tspan class="value">1 year, 8 months</tspan></tspan>
+<tspan x="430" y="84"><tspan class="key">Role:</tspan>          <tspan class="value">Smart Contract Developer</tspan></tspan>
+<tspan x="430" y="102"><tspan class="key">Editor:</tspan>        <tspan class="value">Visual Studio Code</tspan></tspan>
+<tspan x="430" y="120"><tspan class="key">Shell:</tspan>         <tspan class="value">PowerShell + Bash</tspan></tspan>
+<tspan x="430" y="120"> </tspan>
+<tspan x="430" y="148"><tspan class="cc">―― Languages ――――――――――――――――――――――――――</tspan></tspan>
+<tspan x="430" y="168"><tspan class="key">Languages.Blockchain:</tspan>   <tspan class="value">Solidity, Rust</tspan></tspan>
+<tspan x="430" y="186"><tspan class="key">Languages.Web:</tspan>          <tspan class="value">JS, TypeScript</tspan></tspan>
+<tspan x="430" y="204"><tspan class="key">Languages.Systems:</tspan>      <tspan class="value">Rust, Go</tspan></tspan>
+<tspan x="430" y="222"><tspan class="key">Languages.Other:</tspan>        <tspan class="value">Python, C++</tspan></tspan>
+<tspan x="430" y="222"> </tspan>
+<tspan x="430" y="250"><tspan class="cc">―― Research ―――――――――――――――――――――――――――</tspan></tspan>
+<tspan x="430" y="270"><tspan class="key">Blockchain:</tspan>    <tspan class="value">Ethereum, ZK Proofs</tspan></tspan>
+<tspan x="430" y="288"><tspan class="key">MEV:</tspan>           <tspan class="value">Block Building, Searchers</tspan></tspan>
+<tspan x="430" y="306"><tspan class="key">Infra:</tspan>         <tspan class="value">Distributed Systems</tspan></tspan>
+<tspan x="430" y="306"> </tspan>
+<tspan x="430" y="334"><tspan class="cc">―― Contact ――――――――――――――――――――――――――――</tspan></tspan>
+<tspan x="430" y="354"><tspan class="key">Email:</tspan>         <tspan class="value">gujjaryash7089@gmail.com</tspan></tspan>
+<tspan x="430" y="372"><tspan class="key">Twitter/X:</tspan>     <tspan class="value">@offee_co</tspan></tspan>
+<tspan x="430" y="390"><tspan class="key">Blog:</tspan>          <tspan class="value">yap-blogs.vercel.app</tspan></tspan>
+<tspan x="430" y="408"><tspan class="key">GitHub:</tspan>        <tspan class="value">github.com/YASH-ai-bit</tspan></tspan>
 </text>
 </svg>
