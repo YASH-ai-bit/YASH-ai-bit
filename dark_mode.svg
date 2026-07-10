@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="425px" font-size="14px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="948px" height="425px" font-size="14px">
 <style>
 @font-face {
   src: local('Consolas'), local('Consolas Bold');
@@ -15,7 +15,7 @@
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="425px" fill="#161b22" rx="15"/>
+<rect width="948px" height="425px" fill="#161b22" rx="15"/>
 
 <!-- ============ ASCII ART (left column, smaller font) ============ -->
 <text x="15" y="28" fill="#c9d1d9" font-size="10px">
@@ -55,7 +55,7 @@ text, tspan {white-space: pre;}
 
 <!-- ============ INFO (right column) ============ -->
 <text x="420" y="25" fill="#c9d1d9" font-size="14px">
-<tspan x="420" y="25"><tspan class="key">yash</tspan><tspan class="cc">@</tspan><tspan class="key">github</tspan><tspan class="cc"> ――――――――――――――――――――――――――――――――――――――――――――――――</tspan></tspan>
+<tspan x="420" y="25"><tspan class="key">yash</tspan><tspan class="cc">@</tspan><tspan class="key">github</tspan><tspan class="cc"> ―――――――――――――――――――――――――――――――――――――――――――――――</tspan></tspan>
 <tspan x="420" y="43"><tspan class="cc">. </tspan><tspan class="key">OS:</tspan><tspan class="cc">.................................. </tspan><tspan class="value">Windows 11 + WSL</tspan></tspan>
 <tspan x="420" y="61"><tspan class="cc">. </tspan><tspan class="key">Uptime:</tspan><tspan class="cc">............................ </tspan><tspan class="value">19 years, 3 months</tspan></tspan>
 <tspan x="420" y="79"><tspan class="cc">. </tspan><tspan class="key">Editor:</tspan><tspan class="cc">............................ </tspan><tspan class="value">Visual Studio Code</tspan></tspan>
