@@ -57,11 +57,11 @@ text, tspan {white-space: pre;}
 <text x="415" y="25" fill="#c9d1d9" font-size="14px">
 <tspan x="415" y="25"><tspan class="key">yash</tspan><tspan class="cc">@</tspan><tspan class="key">github</tspan><tspan class="cc"> ―――――――――――――――――――――――――――――――――――――――――</tspan></tspan>
 <tspan x="415" y="43"><tspan class="cc">. </tspan><tspan class="key">OS:</tspan><tspan class="cc">............................... </tspan><tspan class="value">Windows 11 + WSL</tspan></tspan>
-<tspan x="415" y="61"><tspan class="cc">. </tspan><tspan class="key">Uptime:</tspan><tspan class="cc">......................... </tspan><tspan class="value">19 years, 3 months</tspan></tspan>
+<tspan x="415" y="61"><tspan class="cc">. </tspan><tspan class="key">Uptime:</tspan><tspan class="cc">......................... </tspan><tspan class="value">19 years, 7 months</tspan></tspan>
 <tspan x="415" y="79"><tspan class="cc">. </tspan><tspan class="key">Editor:</tspan><tspan class="cc">......................... </tspan><tspan class="value">Visual Studio Code</tspan></tspan>
 <tspan x="415" y="97"><tspan class="cc">. </tspan><tspan class="key">Shell:</tspan><tspan class="cc">........................... </tspan><tspan class="value">PowerShell + Bash</tspan></tspan>
 <tspan x="415" y="115"><tspan class="cc">. </tspan></tspan>
-<tspan x="415" y="133"><tspan class="cc">. </tspan><tspan class="key">Languages.Real:</tspan><tspan class="cc">..................... </tspan><tspan class="value">English, Hindi</tspan></tspan>
+<tspan x="415" y="133"><tspan class="cc">. </tspan><tspan class="key">Languages.Real:</tspan><tspan class="cc">..................... </tspan><tspan class="value">Hindi, English</tspan></tspan>
 <tspan x="415" y="151"><tspan class="cc">. </tspan><tspan class="key">Languages.Blockchain:</tspan><tspan class="cc">............... </tspan><tspan class="value">Solidity, Rust</tspan></tspan>
 <tspan x="415" y="169"><tspan class="cc">. </tspan><tspan class="key">Languages.Web:</tspan><tspan class="cc">...................... </tspan><tspan class="value">JS, TypeScript</tspan></tspan>
 <tspan x="415" y="187"><tspan class="cc">. </tspan><tspan class="key">Languages.Systems:</tspan><tspan class="cc">................... </tspan><tspan class="value">Rust, Go, C++</tspan></tspan>
@@ -74,8 +74,8 @@ text, tspan {white-space: pre;}
 <tspan x="415" y="313"><tspan class="cc">. </tspan><tspan class="key">Blog:</tspan><tspan class="cc">................................. </tspan><tspan class="value">yap.engineer</tspan></tspan>
 <tspan x="415" y="331"><tspan class="cc">. </tspan></tspan>
 <tspan x="415" y="349"><tspan class="cc">- GitHub Stats ――――――――――――――――――――――――――――――――――――――</tspan></tspan>
-<tspan x="415" y="367"><tspan class="cc">. </tspan><tspan class="key">Repos:</tspan><tspan class="cc">.... </tspan><tspan class="value">47</tspan><tspan class="cc"> {Contributed: 41} | </tspan><tspan class="key">Stars:</tspan><tspan class="cc">......... </tspan><tspan class="value">5</tspan></tspan>
-<tspan x="415" y="385"><tspan class="cc">. </tspan><tspan class="key">Commits:</tspan><tspan class="cc">................... </tspan><tspan class="value">446</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers:</tspan><tspan class="cc">..... </tspan><tspan class="value">5</tspan></tspan>
-<tspan x="415" y="403"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub:</tspan><tspan class="cc"> </tspan><tspan class="value">63,765</tspan><tspan class="cc"> (</tspan><tspan class="addColor">63,860++</tspan><tspan class="cc">, </tspan><tspan class="delColor">5,824--</tspan><tspan class="cc">)</tspan></tspan>
+<tspan x="415" y="367"><tspan class="cc">. </tspan><tspan class="key">Repos:</tspan><tspan class="cc">.... </tspan><tspan class="value">58</tspan><tspan class="cc"> {Contributed: 38} | </tspan><tspan class="key">Stars:</tspan><tspan class="cc">......... </tspan><tspan class="value">5</tspan></tspan>
+<tspan x="415" y="385"><tspan class="cc">. </tspan><tspan class="key">Commits:</tspan><tspan class="cc">................... </tspan><tspan class="value">651</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers:</tspan><tspan class="cc">..... </tspan><tspan class="value">8</tspan></tspan>
+<tspan x="415" y="403"><tspan class="cc">. </tspan><tspan class="key">Net source:</tspan><tspan class="cc">.......... </tspan><tspan class="value">198,968</tspan><tspan class="cc"> (</tspan><tspan class="addColor">225,328++</tspan><tspan class="cc">, </tspan><tspan class="delColor">26,360--</tspan><tspan class="cc">)</tspan></tspan>
 </text>
 </svg>
